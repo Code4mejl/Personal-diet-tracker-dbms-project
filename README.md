@@ -33,3 +33,6 @@ npm start
 Open http://localhost:3000 and the backend runs on port 4000 by default.
 
 JWT secret in .env.example is 'supersecretkey'.
+
+
+[![NutriNerds](https://i.ibb.co/4RkdxgCs/nutrinerds.png)](https://ibb.co/HTZdQpRN)
